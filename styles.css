@@ -1,0 +1,30 @@
+.container {
+  max-width: 90%;
+  margin: auto;
+}
+
+table.employee-table {
+  width: 100%;
+}
+
+td img {
+  margin: auto;
+}
+
+.overlay {
+  max-width: 30%;
+  margin: auto;
+  margin-top: 30px;
+  border: 1px solid black;
+  padding: 30px;
+}
+
+.overlay h2 {
+  text-align: center;
+}
+
+.overlay-img-box {
+  max-width: 50%;
+  margin: auto;
+  text-align: center;
+}
